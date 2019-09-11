@@ -118,8 +118,22 @@ h5{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
 }
+.song-requestes{
+    margin-top: 60px;
+}
+.song-requestes img{
+    border-radius: 30px;
+    height: 70px;
+}
+.song-requestes img:hover{
+    cursor: pointer;
+}
+.song-requestes h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
 #artistnothere{
-    color: rgb(32, 166, 255);
+    color: rgb(124, 153, 172);
     font-size: 20px;
 }
 .about-content h1 , .about-content p{
