@@ -90,6 +90,20 @@ h5{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
 }
+.pewdiepie{
+    margin-top: 60px;
+}
+.pewdiepie img{
+    border-radius: 30px;
+    height: 70px;
+}
+.pewdiepie img:hover{
+    cursor: pointer;
+}
+.pewdiepie h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
 #artistnothere{
     color: rgb(32, 166, 255);
     font-size: 20px;
