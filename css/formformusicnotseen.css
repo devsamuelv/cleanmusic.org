@@ -1,0 +1,31 @@
+#title{
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form input{
+    border: solid 1px gray;
+    border-radius: 10px;
+    padding: 5px;
+}
+.form button{
+    padding: 5px;
+    margin-top: 5px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+.form button:hover{
+    background-color: black;
+    color: white;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+}
+#clean{
+    border: solid 1px black;
+    border-radius: 5px;
+}
+#cleantxt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
