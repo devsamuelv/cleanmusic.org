@@ -101,8 +101,21 @@
 #bsh-lasagna{
     background-image: url("images/pewdiepie/bi--lazina.jpg");
 }
+/* Alan Walker */
+#faded{
+    background-image: url("images/alan-walker/fade.jpg");
+}
+#sleep{
+    background-image: url("images/alan-walker/sleep.jpg");
+}
+#alone{
+    background-image: url("images/alan-walker/alone.jpg");
+}
 
 /* Submited Songs */
 #lalala{
     background-image: url("images/submited/lalala-by-bbno$.jpg");
+}
+#minecraft{
+    background-image: url("images/Minecraft/logo.jpg");
 }

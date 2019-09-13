@@ -107,6 +107,7 @@ h5{
 .youtube{
     margin-top: 60px;
 }
+
 .youtube img{
     border-radius: 30px;
     height: 70px;
@@ -129,6 +130,20 @@ h5{
     cursor: pointer;
 }
 .song-requestes h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.alan-walker{
+    margin-top: 60px;
+}
+.alan-walker img{
+    border-radius: 30px;
+    height: 70px;
+}
+.alan-walker img:hover{
+    cursor: pointer;
+}
+.alan-walker h2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
 }
