@@ -47,6 +47,12 @@ h5{
         height: 110px;
     }
 }
+
+@media screen and (max-width:500px){
+    #message-div{
+        display: none;
+    }
+}
 .header{
     background-color: black;
     height: 100px;
