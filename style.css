@@ -3,6 +3,28 @@
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+#title{
+    margin-top: 50px;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+#title-a {
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: solid 2px black;
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+}
+#title-a:hover {
+    border: solid 2px white;
+    background-color: black;
+    color: white;
+    transition: 0.8s;
+}
 #message-div {
     background-color: rgb(0, 187, 0);
     height: 50px;
