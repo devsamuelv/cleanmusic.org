@@ -1,4 +1,8 @@
 var screenWidth = screen.width;
+var exitText = document.getElementById('message-div');
+const exitTextHide = false;
+var electic = document.getElementById('click');
+var electicArtists = document.getElementById('Electric');
 
 if (screenWidth < 800){
     document.getElementsByTagName("div")[0].className = "audio-left";
@@ -11,4 +15,12 @@ while(true){
     if (screenWidth < 800){
         document.getElementsByTagName("div")[0].className = "audio-left";
     }
+
+    if (exitTextHide == true){
+        exitText.hidden = true;
+    }
+}
+
+function hideText(){
+    exitText.hidden = true;
 }
