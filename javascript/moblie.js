@@ -1,6 +1,6 @@
 var screenWidth = screen.width;
 var exitText = document.getElementById('message-div');
-const exitTextHide = false;
+const exitTextHide = true;
 var electic = document.getElementById('click');
 var electicArtists = document.getElementById('Electric');
 
