@@ -22,5 +22,5 @@ while(true){
 }
 
 function hideText(){
-    exitText.hidden = true;
+    //exitText.hidden = true;
 }

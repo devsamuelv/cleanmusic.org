@@ -26,16 +26,18 @@
     transition: 0.8s;
 }
 #message-div {
-    background-color: rgb(0, 187, 0);
+    background-image: url("images/pewdiepie/background.jpg");
     height: 50px;
     box-shadow: 0 0 10px 0;
 }
-#message-div h4{
+#message-div a{
+    line-height: 45px;
     text-align: center;
     font-size: 20px;
     color: white;
     padding-top: 10px;
     text-transform: unset;
+    text-decoration: none;
 }
 #logo img{
     height: 80px;
