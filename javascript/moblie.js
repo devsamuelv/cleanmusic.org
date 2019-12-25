@@ -20,7 +20,3 @@ while(true){
         exitText.hidden = true;
     }
 }
-
-function hideText(){
-    //exitText.hidden = true;
-}
